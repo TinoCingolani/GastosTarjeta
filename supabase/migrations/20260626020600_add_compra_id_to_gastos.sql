@@ -1,0 +1,2 @@
+ALTER TABLE gastos
+ADD COLUMN compra_id UUID NULL;
